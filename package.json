@@ -1,0 +1,16 @@
+{
+  "name": "bug-fixing-files-association--weka-fpgrwoth",
+  "productName": "bug-fixing-files-association-fpgrwoth",
+  "version": "0.1.0",
+  "author": "Nitin",
+  "description": "Provides association between files of bug fixing revisions using Weka FPGrowth algorithm",
+  "main": "main.html",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "icon": {
+  	"type": "fa",
+  	"name": "leaf"
+  }
+}
